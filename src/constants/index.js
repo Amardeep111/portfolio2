@@ -70,8 +70,8 @@ export const PROJECTS = [
     description:
       "A responsive website built with modern technologies, integrating Bolt AI for smart interactions and enhanced functionality.",
     technologies: ["HTML", "Bolt AI", "ReactJS", "TailwindCSS"],
-    link: "https://github.com/Amardeep111/",
-    repo: "https://github.com/Amardeep111/"
+    link: "https://github.com/Amardeep111/portfolio_react",
+    repo: "https://github.com/Amardeep111/portfolio_react"
   },
   {
     title: "Travel Website",
@@ -79,8 +79,8 @@ export const PROJECTS = [
     description:
       "It offers an engaging user experience, making it easy to explore, discover, and plan travel adventures.",
     technologies: ["HTML", "CSS", "Express", "mySQL"],
-    link: "https://github.com/Amardeep111/",
-    repo: "https://github.com/Amardeep111/"
+    link: "https://github.com/Amardeep111/EZEE-SHOP-E-commerce-Shopping-Website",
+    repo: "https://github.com/Amardeep111/EZEE-SHOP-E-commerce-Shopping-Website"
   },
 ];
 
