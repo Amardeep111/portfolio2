@@ -6,6 +6,8 @@ import Teachnology from './components/Teachnologies'
 import Experience from './components/Experience'
 import Teachnologies from './components/Teachnologies'
 import Projects from './components/Projects'
+import Certificates from './components/Certificates'
+import CV from './components/CV'
 import Contact from './components/Contact'
 
 function App() {
@@ -23,6 +25,8 @@ function App() {
       <Teachnologies />
       <Experience />
       <Projects/>
+      <Certificates />
+      <CV />
       <Contact/>
       </div>
     </div>
