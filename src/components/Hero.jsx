@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import ProfilePic from "../assets/ass.jpg"
+import ProfilePic from "../assets/as.jpg"
 // import { motion, useSpring } from "framer-motion";
 import { motion } from "framer-motion";
 
